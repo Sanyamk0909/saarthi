@@ -1,4 +1,6 @@
 Use npm install to get all node modules to run this
+It has been converted to build so use:
+serve -s build
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
